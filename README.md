@@ -9,3 +9,22 @@ Daily Limit: Users can index up to 500 URLs per day during the demo period.
 Pause and Resume: Pause and resume the indexing process as needed.
 Progress Tracking: Track the progress of indexing, including total URLs, passed URLs, and failed URLs.
 Results Display: View the results of the indexing process directly in the application.
+
+
+Enter URLs manually or import them from a file.
+
+Click "Index URLs" to start the indexing process.
+
+Monitor the progress using the progress bar and result counts.
+
+Pause and resume indexing using the "Pause Indexing" button.
+
+View the detailed results in the text area at the bottom of the application.
+
+Configuration
+Config File: The application uses a config.json file to track the installation date and daily usage.
+Constants: Demo period and daily limit are defined as constants in the script (DEMO_PERIOD_DAYS and DAILY_LIMIT).
+Demo Limitations
+The demo version is limited to 5 days.
+Users can index up to 500 URLs per day.
+To unlock full functionality, please purchase the full version here. https://web.facebook.com/lasinsrajj
