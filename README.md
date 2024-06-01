@@ -1,6 +1,9 @@
 Backlink Indexing Tool - DEMO
 This is a simple yet powerful backlink indexing tool with a demo version. The tool allows users to enter URLs to be indexed and includes features to manage a demo period and daily usage limits.
+ 
+ ![Annotation 2024-06-01 181412](https://github.com/lasinsraj/backlink-inedxing-tool-demo/assets/109415189/aeb2b350-655b-45c5-a513-f9d5e807fc2f)
 
+ 
 Features
 Manual URL Entry: Enter URLs manually through the GUI.
 Import URLs from File: Import a list of URLs from a text file.
@@ -28,3 +31,5 @@ Demo Limitations
 The demo version is limited to 5 days.
 Users can index up to 500 URLs per day.
 To unlock full functionality, please purchase the full version here. https://web.facebook.com/lasinsrajj
+
+
